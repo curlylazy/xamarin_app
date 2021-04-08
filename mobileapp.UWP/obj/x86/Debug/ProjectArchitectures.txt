@@ -1,0 +1,1 @@
+D:\xamarin\mobileapp\mobileapp\mobileapp.UWP\mobileapp.UWP.csproj;x86
